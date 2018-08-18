@@ -7,3 +7,5 @@ Contributors guide
 =======================
 
 just fork the repo and send me a pull request
+
+add more text
